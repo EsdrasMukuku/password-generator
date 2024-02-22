@@ -19,23 +19,15 @@ body {
 }
 
 .header {
-    /* display: flex;
-    flex-direction: column; */
-    /* justify-content: center; */
-    
+
     width: 354px;
     height: 80px;
-    /* border: 3px solid red; */
     position: absolute;
     top: 115px;
-    left: 52px;
-   
+    left: 52px;  
     font-family: "Karla", sans-serif;
-    /* font-optical-sizing: auto; */
     font-weight: 800;
-    /* font-style: normal; */
-    /* font-size: 40px; */
-    color: white
+    color: white;
 
 
 }
@@ -55,7 +47,6 @@ body {
     height: 32px;
     border-radius: 6px;
     color: white;
-    /* border-style: outset; */
     margin-bottom: 30px;
     border: 1px outset #10b98187
 }
@@ -68,7 +59,6 @@ body {
 
 .gen-space {
     display: flex;
-    /* gap: 10px; */
     width: 446px;
     height: 39px;
     justify-content: space-between;
